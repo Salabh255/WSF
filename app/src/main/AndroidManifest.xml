@@ -43,7 +43,7 @@
         <activity
             android:name=".LawsActivity"
             android:exported="false" />
-        <activity
+        <service
             android:name=".ServiceActivity"
             android:exported="false" />
         <activity
